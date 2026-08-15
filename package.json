@@ -1,0 +1,15 @@
+{
+  "name": "mw2019-to-gmod-guide",
+  "version": "1.0.0",
+  "private": true,
+  "description": "COD16 (MW2019) 及以后作品武器导入 Garry's Mod 全流程教程",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3",
+    "vue": "^3.5.13"
+  }
+}
