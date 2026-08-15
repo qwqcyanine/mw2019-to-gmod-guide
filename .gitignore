@@ -3,5 +3,5 @@ docs/.vitepress/dist/
 docs/.vitepress/cache/
 *.log
 .DS_Store
-examples/
+/examples/
 package-lock.json
