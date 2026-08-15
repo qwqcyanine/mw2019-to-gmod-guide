@@ -1,0 +1,9 @@
+{ event 5004 0 "wfoly_plr_pi_golf17_reload_01" }
+{ event 9011 0 "0" }
+{ event 5004 8 "wfoly_plr_pi_golf17_reload_02" }
+{ event 5004 16 "wfoly_plr_pi_golf17_reload_03" }
+{ event 5004 20 "wfoly_plr_pi_golf17_reload_04" }
+{ event 5004 30 "wfoly_plr_pi_golf17_reload_05" }
+{ event 5004 34 "wfoly_plr_pi_golf17_reload_06" }
+{ event 5004 38 "wfoly_plr_pi_golf17_reload_07" }
+{ event 9011 49 "1" }
